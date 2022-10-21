@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhan Ali</h1>
-<h3 align="center">I'm a software engineer based in Boston,MA. Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. When I'm not coding, I can be found on the basketball court, Eating Indian food, or playing FIFA</h3>
+<h3 align="center">I'm a software engineer based in Boston,MA. Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. When I'm not coding, I can be found on the basketball court, at an Indian resturat, or playing FIFA</h3>
 
 - 🌱 I’m currently learning **Node.JS**
 
