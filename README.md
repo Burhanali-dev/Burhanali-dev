@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhan Ali</h1>
-<h3 align="center">A passionate Fullstack developer from Boston,MA</h3>
-
-<p align="left"> <a href="https://twitter.com/burhanalidev" target="blank"><img src="https://img.shields.io/twitter/follow/burhanalidev?logo=twitter&style=for-the-badge" alt="burhanalidev" /></a> </p>
+<h3 align="center">I'm a software engineer based in Boston,MA. Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. When I'm not coding, I can be found on the basketball court, at an Indian resturant, or playing FIFA</h3>
 
 - 🌱 I’m currently learning **Node.JS**
 
@@ -23,6 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burhanali-dev&show_icons=true&locale=en" alt="burhanali-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burhanali-dev&" alt="burhanali-dev" /></p>
+
 
 
 
