@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/113322000/197706459-ca8528be-696e-4104-b8ea-2057b5b15f65.png)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Burhan Ali</h1>
 <h3 align="center">I'm a software engineer based in Boston,MA. Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. When I'm not coding, I can be found on the basketball court, at an Indian resturat, or playing FIFA</h3>
 
